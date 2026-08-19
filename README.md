@@ -1,6 +1,6 @@
 <div align="center">
 
-![Image header "Power BI macguyver toolbox templates and examples for your Power BI reports"](assets/Credit_Risk_PD_banner.png)
+
 
 ---
 
@@ -129,7 +129,7 @@ credit_risk_pd/
 | Total ECL provision | **$793 million** |
 
 ---
-![A header image "how to clone a Git repo if you're new to git or unfamiliar with it"](assets/Power_BI_Dashboard.png)
+
 
 ## 📊 Power BI Dashboard
 
@@ -172,7 +172,7 @@ The Power BI dashboard (`credit_risk_pd.pbix`) connects directly to the 4 output
 - **ECL Bar Chart:** Provision amount by stage in $M
 - **Summary Table:** Full IFRS9 table with loan count, avg PD, total EAD, total ECL, and ECL as % of EAD per stage
 
-![A header image "how a PowerBI Dashboard look"](assets/Power_BI_Dashboard_collage.png)
+
 
 Templates are provided either as Power BI Desktop (.pbix) or Power BI projects (.pbip) files. I recommend that you use the .pbip format. 
 
@@ -195,7 +195,7 @@ To use these templates, I recommend that you _clone_ (or copy) this Git repo to 
 
 <br>
 
-![An image depicting how to clone a repository in VS code](assets/clone-repo-vscode.png)
+
 
 ### Create a virtual environment
 
@@ -236,7 +236,7 @@ Open the notebooks in order:
 
 
 
-![A header image "how to enable and use PBIP files"](assets/how-to-enable-pbip-format-header.png)
+
 
 ### How to enable and use .pbip files
 
@@ -247,7 +247,7 @@ Open the notebooks in order:
 5. Restart Power BI Desktop
 6. Open the .pbip files in Power BI Desktop
 
-![An image depicting how to enable .pbip format in Power BI Desktop](assets/how-to-enable-pbip-format.png)
+
 
 __I recommend the .pbip format for templates for the following reasons:__
 - Lightweight sharing of report + model metadata.
