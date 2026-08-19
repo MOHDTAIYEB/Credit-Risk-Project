@@ -7,18 +7,16 @@
 *End-to-end machine learning pipeline for Probability of Default prediction, IFRS9 staging, Expected Credit Loss estimation, and interactive Power BI analytics.*
 <table width="100%">
   <tr>
-    <td align="left" border="0">
-      <a href="https://manishattry.github.io/credit_risk.html" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-Predict_Default-239120?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Live Demo" />
-      </a>
-    </td>
     <td align="right" border="0">
-      <a href="https://github.com/ManishAttry/Credit_Risk_PD/blob/main/notebooks/Credit_RIsk_PD.ipynb" target="_blank">
+      <a href="https://github.com/MOHDTAIYEB/Credit-Risk-Project/blob/main/notebooks/Credit_RIsk_PD.ipynb" target="_blank">
         <img src="https://img.shields.io/badge/📖_View_Notebook-nbviewer-orange?style=for-the-badge&logo=jupyter" height="42" alt="View Notebook" />
       </a>
     </td>
   </tr>
 </table>
+<p><a href="https://github.com/MOHDTAIYEB/Credit-Risk-Project" target="_blank">
+<img src="https://img.shields.io/badge/🔗_GitHub_Repository-Credit--Risk--Project-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub Repository" />
+</a></p>
 </div>
 
 ---
@@ -176,7 +174,7 @@ The Power BI dashboard (`credit_risk_pd.pbix`) connects directly to the 4 output
 
 ![A header image "how a PowerBI Dashboard look"](assets/Power_BI_Dashboard_collage.png)
 
-Templates are provided either as Power BI Desktop (.pbix) or [Power BI projects (.pbip)](https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-overview) files. I recommend that you use the .pbip format. 
+Templates are provided either as Power BI Desktop (.pbix) or Power BI projects (.pbip) files. I recommend that you use the .pbip format. 
 
 ---
 
@@ -192,7 +190,7 @@ To use these templates, I recommend that you _clone_ (or copy) this Git repo to 
 5. __Clone the repository.__ In the GUI, you should select an option "clone repository". From here, you can enter the HTTPS URL. You can also initiate this from GitHub, itself, via the _code_ button.
 
 > <br>
-> Use this URL when cloning the repo: https://github.com/ManishAttry/Credit_Risk_PD/
+> Use this URL when cloning the repo: https://github.com/MOHDTAIYEB/Credit-Risk-Project
 > <br><br>
 
 <br>
@@ -264,9 +262,9 @@ __I recommend the .pbip format for templates for the following reasons:__
 
 ### 💖 Thank you for using Credit Risk PD
 
-If this project is helpful to you, welcome to give us a ⭐️ Star！
+If this project is helpful to you, please give it a ⭐️ Star！
 
-<sub>Built with ❤️ by Manish</sub>
+<sub>Built with ❤️ by MOHDTAIYEB</sub>
 
 </div>
 	
