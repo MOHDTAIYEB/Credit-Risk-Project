@@ -178,7 +178,7 @@ Templates are provided either as Power BI Desktop (.pbix) or Power BI projects (
 
 ---
 
-![A header image "how to clone a Git repo if you're new to git or unfamiliar with it"](assets/clone-repo-github-header.png)
+
 
 ### How to clone a repository by using Git
 To use these templates, I recommend that you _clone_ (or copy) this Git repo to your local machine. If you're unfamiliar with Git, cloning allows you to ensure you have a syncronized local copy of the repository. You use a tool like VS Code to open the folder, check for changes, and sync to get the latest updates. To clone the Git repo:
